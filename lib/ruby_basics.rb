@@ -7,7 +7,7 @@ def assign_variable(value)
 end
 
 def argue(argument)
-  return argument
+  argument
 end
 
 def greeting(greeting, name)
@@ -15,7 +15,7 @@ def greeting(greeting, name)
 end
 
 def return_a_value()
-  return "Nice"
+  "Nice"
 end
 
 def last_evaluated_value()
